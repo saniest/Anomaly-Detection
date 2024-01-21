@@ -10,10 +10,10 @@ NOTE2: bottle1 folder contains augmented images.
 
 Step2: Make sure following packages are install in your system
 
-Python 3
-pandas
-numpy
-matplotlib
-image_sclicer
-sklearn
-tensorflow
+- Python 3
+- pandas
+- numpy
+- matplotlib
+- image_sclicer
+- sklearn
+- tensorflow
